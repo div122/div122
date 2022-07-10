@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ DIVYA
+- 👋 Hi, I’m  DIVYA
 - 👀 I’m interested in LEARNING
 - 🌱 I’m currently learning NEW TECHNOLOGIES
 - 💞️ I’m looking to collaborate on GITHUB
