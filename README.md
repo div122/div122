@@ -2,7 +2,7 @@
 - 👀 I’m interested in LEARNING
 - 🌱 I’m currently learning NEW TECHNOLOGIES
 - 💞️ I’m looking to collaborate on GITHUB
-- 📫 How to reach me @ divya122.n@gmail.com
+- 📫 Reach me @ divya122.n@gmail.com
 
 <!---
 div122/div122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
