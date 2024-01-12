@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  DIVYA
-- 👀 I’m interested in LEARNING
-- 🌱 I’m currently learning NEW TECHNOLOGIES
+- 👀 I’m interested in LEARNING NEW TECHNOLOGIES
+- 🌱 I’m currently learning AWS Database services
 - 💞️ I’m looking to collaborate on GITHUB
 - 📫 Reach me @ divya122.n@gmail.com
 - ✨ Learn new technologies with me by utilizing public repositorys in this Github account.✨
