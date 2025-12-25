@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AWS & Devops**
 
-- 🌱 I’m currently learning **AWS ,DevSecOps**
+- 🌱 I’m currently learning **DevSecOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/div122](https://github.com/div122)
 
